@@ -8,6 +8,8 @@ We cover everything from basic data retrieval queries to the implementation of m
 
 Additionally, we discuss how to enhance the user experience by incorporating icons for better visualization and interaction.
 
+![mockup-0.png](https://github.com/aldiandarwin/Laravel-Livewire-Datatable/assets/70283015/bd20770b-57d6-4172-856d-e78ff3b7195f)
+
 ## Tech Stack
 
 **_Laravel 10_** The latest version of the Laravel framework provides a robust foundation for building web applications, offering powerful features and an elegant syntax.
